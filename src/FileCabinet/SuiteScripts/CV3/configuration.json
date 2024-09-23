@@ -1,0 +1,6 @@
+{
+    "paths": {
+        "cv3core": "/SuiteScripts/CV3/v1/core/main",
+        "cv3client": "/SuiteScripts/CV3/client/main"
+    }
+}
